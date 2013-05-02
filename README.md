@@ -43,7 +43,7 @@ Here's what you can do with this plugin:
 
 == Installation ==
 
-1. Ensure you have latest version of [WooCommerce](http://www.storeapps.org/woocommerce/) plugin installed
+1. Ensure you have latest version of [WooCommerce](http://www.96down.com/category/plugins/woocommerce-extensions-plugins/) plugin installed
 2. Unzip and upload the folder 'woocommerce-smart-coupons' to your `/wp-content/plugins/` directory
 3. Activate 'WooCommerce Smart Coupons' through the 'Plugins' menu in WordPress
 
